@@ -1,29 +1,38 @@
 # VEDA
 
 ### 1D LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/8bfaea23-5778-49f0-8f0a-1f2e55abb6fd)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/567d863f-0c84-4b45-ad67-81d6fb9e8aa6)
+
 
 ### 4h LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/a061a17f-237e-4fe3-8774-205ee0a77515)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/6f5f9e46-f0a6-4a89-a6d8-ab6cfdab7715)
+
 
 ### 1h LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/cb883ebe-7e20-4d61-b628-add2ecc00196)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/028ab5c3-821b-4f3c-9fc1-4befb618b480)
+
 
 ### 1d ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/b4e6362d-6e58-488a-a261-a8bf688123cb)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/9db05471-1dac-4ca1-8555-e5374af24b3c)
+
 
 ### 4h ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/75a701dd-9e33-4577-b84b-cb7bbf91801a)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/627df420-e102-4e01-891e-345110d1a62d)
+
 
 ### 1h ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/518bf77d-d286-4565-914e-3c7146909de7)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/87e4c8da-7cd2-4c42-8162-09dac828f232)
+
 
 ### 1D KSM
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/836926e5-5b9a-435b-b233-a9ad1321de87)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/eb55081e-74ea-45ae-a88f-98d4e2f1882e)
+
 ### 4h KSM
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/04138882-5f99-4a19-b7ba-9a0d8d25b043)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/2e553a51-933c-40e6-9241-74002675310a)
+
 ### 1h KSM
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/ca90adbc-164d-4ee6-a7f5-4ff9bf7bda08)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/991ae705-0c98-4bea-84d7-5dffa7254faf)
+
 ### 1D GALA
 ![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/56938147-879f-4c66-9ff9-f25e9e9b526e)
 ### 4h GALA
