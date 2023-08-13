@@ -1,17 +1,23 @@
 # VEDA
 
 ### 1D LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/2a09a283-b261-4104-ae9f-e9bb642923c6)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/8bfaea23-5778-49f0-8f0a-1f2e55abb6fd)
+
 ### 4h LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/909113e7-8688-461e-b95b-4acbc6038362)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/a061a17f-237e-4fe3-8774-205ee0a77515)
+
 ### 1h LIT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/f5448f2c-fc6f-47ea-b361-2cc374d140e4)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/cb883ebe-7e20-4d61-b628-add2ecc00196)
+
 ### 1d ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/833ca4ec-8c46-4b27-a363-f64705bdf06a)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/b4e6362d-6e58-488a-a261-a8bf688123cb)
+
 ### 4h ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/b0b874fb-33f0-4718-a926-bf3696fbcd6a)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/75a701dd-9e33-4577-b84b-cb7bbf91801a)
+
 ### 1h ONT
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/245a9652-af7a-4fe5-a542-9d2e8cc62e03)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/518bf77d-d286-4565-914e-3c7146909de7)
+
 ### 1D KSM
 ![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/836926e5-5b9a-435b-b233-a9ad1321de87)
 ### 4h KSM
