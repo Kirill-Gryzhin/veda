@@ -34,20 +34,29 @@
 ![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/991ae705-0c98-4bea-84d7-5dffa7254faf)
 
 ### 1D GALA
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/56938147-879f-4c66-9ff9-f25e9e9b526e)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/4aa1d27f-3ff4-4dab-82f6-56bb5663e024)
+
 ### 4h GALA
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/a95682e1-0818-4b7d-bec4-8c9ea2e54e4a)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/c48c03c3-7392-4254-aab7-d47e352a6992)
+
 ### 1h GALA
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/de5a45bd-4d8e-4372-9565-a4058208ae0d)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/4ce32c89-2470-488b-86bf-531633429862)
+
 ### 1D NEO
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/688ba89f-4be4-4a76-8170-1d00aa3e1dd6)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/9a0712bf-46a7-4f1e-84b0-3044f6f04212)
+
 ### 4h NEO
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/e23b2cd0-3fb9-42cb-a440-54ac92578a3a)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/4bc353bf-060e-4c53-89c4-d262e502f3a9)
+
 ### 1h NEO
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/e34399a7-a360-4e60-b752-25197b12e755)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/0a0478a9-54df-415d-8266-6643a5d6e785)
+
 ### 1D SFP
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/3c9236de-bde4-48db-9541-818877fd4045)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/ca0ee5d4-332a-4c37-a5b7-873b9619ffa7)
+
 ### 4h SFP
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/33d00c7e-ed91-4a5a-a5dc-c41b4f2a6cc0)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/da77e01b-37a3-415c-8612-fc9242868fbc)
+
 ### 1h SFP
-![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/9f6d1065-ec4c-4baa-8f05-78d3fef5f2a4)
+![image](https://github.com/Kirill-Gryzhin/veda/assets/137723281/fa1ae482-98b6-4eab-aa85-2abc4a785f8b)
+
